@@ -1,3 +1,5 @@
+## Daily Texan - Photojournalism Portfolio
+
 ### People
 <img src="DailyTexan/20250612-DSC00373.jpg" alt="SantaCruz Child" width="600"/>
 

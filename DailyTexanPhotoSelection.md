@@ -33,7 +33,9 @@
 
 <img src="DailyTexan/258FD7F4-28C6-4720-9491-6C83FF4034AA_1_102_a.jpeg" alt="Austin photo 4" width="600"/>
 
+![alt text](DailyTexan/4576BE11-1924-4728-AC30-33307CD2E067_1_105_c.jpeg)
 
+![alt text](DailyTexan/F26089E7-9872-46F3-A9C1-1444FC0FF05F_1_102_a.jpeg)
 
 ### Places
 <img src="DailyTexan/3EFDB2FC-06F9-4B4A-92CD-BFEACEE5FBBC_1_102_o.jpeg" alt="Golden Gate" width="600"/>
